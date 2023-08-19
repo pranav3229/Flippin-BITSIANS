@@ -8,3 +8,4 @@
 
 7. Furthermore, "photo of grid" must be present at beginning of prompt because its an activator word.
 8. ** the model has been abstracted to a good level to be expanded to many other use cases such as furniture placement at home for instance **
+9. The video has also been attached in the github repository
