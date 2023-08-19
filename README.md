@@ -1,5 +1,5 @@
 # Flippin-BITSIANS
-1. You would have to upload the notebook to google Colab to run it.
+1. You would have to upload the notebook to google Colab to run it, and it is a must because it uses google drive to store the weights and perform other tasks.
 2. Furthermore, you would have to use your own OpenAI API key.
 3. Apart from that you would have to upload the current trend and previous user input csv file. 
 4. We have uploaded the 2 sample csv files here, but you would have to upload it on colab too.
